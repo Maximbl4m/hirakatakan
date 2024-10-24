@@ -20,7 +20,7 @@ This is a Docker-based web application designed to help users practice recognizi
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/hirakatakan.git
+   git clone https://github.com/Maximbl4m/hirakatakan.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -40,7 +40,7 @@ This is a Docker-based web application designed to help users practice recognizi
 
 ### Usage
 
-After starting the Docker container, open your web browser and go to `http://localhost:4096` to start learning Japanese.
+After starting the Docker container, open your web browser and go to `http://127.0.0.1:4096` to start learning Hiragana & Katakana.
 
 ## Contributing
 
