@@ -26,14 +26,21 @@ This is a Docker-based web application designed to help users practice recognizi
    ```sh
    cd hirakatakan
    ```
-3. Build and run the Docker containers:
+
+### Building and Running the Docker Image
+
+1. Build the Docker image:
    ```sh
-   docker-compose up --build
+   docker build -t hirakatakan .
+   ```
+2. Run the Docker container:
+   ```sh
+   docker run -p 4096:4096 hirakatakan
    ```
 
 ### Usage
 
-After starting the Docker containers, open your web browser and go to `http://localhost:4096` to start learning Japanese.
+After starting the Docker container, open your web browser and go to `http://localhost:4096` to start learning Japanese.
 
 ## Contributing
 
@@ -42,5 +49,4 @@ Contributions are welcome! If you'd like to help improve this application, pleas
 ## License
 
 This project is licensed under the MIT License.
-
 
