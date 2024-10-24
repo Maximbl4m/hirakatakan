@@ -1,5 +1,12 @@
 # HiraKataKan
 
+🚧 **Project Status: Under Development** 🚧  
+This project is currently under active development and is not yet ready for production use. Features and functionality are subject to change.
+
+![Project Status](https://img.shields.io/badge/status-under_development-orange)
+
+...
+
 This is a Docker-based web application designed to help users practice recognizing Hiragana, Katakana, and Kanji, similar to the learning experience provided by Duolingo, but with additional customization options for different learning modes and difficulty levels.
 
 ## Features
